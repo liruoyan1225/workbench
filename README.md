@@ -15,6 +15,7 @@
 - 直接双击 `personal-workbench.html` 在浏览器打开即可
 - 或在同目录下运行 `launch-workbench.bat`（用 Chrome 无地址栏应用模式打开，更像桌面 App）
 - 本地部署：在本目录执行 `python3 -m http.server 8080 --bind 127.0.0.1`，访问 `http://127.0.0.1:8080/personal-workbench.html`
+- 公网访问（GitHub Pages）：https://liruoyan1225.github.io/workbench/
 
 ## 说明
 
